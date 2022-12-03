@@ -1,6 +1,6 @@
 #  Random Couple  generator
 #  IMPORT FAKER MODULES IN YOUR PC OR MOBILE
-    #  pip install faker
+       pip install faker
        python3 couple.py
 <p> THIS PROGRAM WILL FIND YOUR COUPLE  YOU JUST NEED TO CHOOSE YOUR GENDER AND ENTER NAME
  SELECT YOUR GENDER M FOR MALE OR F FOR FEMALE
