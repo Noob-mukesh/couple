@@ -3,8 +3,7 @@
 #  pip install faker
 #  THIS PROGRAM WILL FIND YOUR COUPLE  YOU JUST NEED TO CHOOSE YOUR GENDER AND ENTER NAME
 #  SELECT YOUR GENDER M FOR MALE OR F FOR FEMALE
-
-    #  wont  run in any condition wtever is your name sabko princess ya prince milega
+# wont  run in any condition wtever is your name sabko princess ya prince milega
 
 <h1> <img src="https://i.pinimg.com/736x/80/11/bf/8011bf2cc1c0c795053ccbee93854394.jpg"  width="100%>
 
