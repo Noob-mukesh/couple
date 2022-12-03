@@ -1,5 +1,5 @@
 #  Random Couple  generator
-#  IMPORT FAKER MODULES IN YOUR PC OR MOBILE
+<p >IMPORT FAKER MODULES IN YOUR PC OR MOBILE</p>
        git clone https://github.com/Noob-mukesh/couple
        pip install faker
        python3 couple.py
