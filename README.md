@@ -1,8 +1,8 @@
 #  Random Couple  generator
 <p >IMPORT FAKER MODULES IN YOUR PC OR MOBILE</p>
-       git clone https://github.com/Noob-mukesh/couple
-       pip install faker
-       python3 couple.py
+             #git clone https://github.com/Noob-mukesh/couple
+              pip install faker
+                python3 couple.py
 <p> THIS PROGRAM WILL FIND YOUR COUPLE  YOU JUST NEED TO CHOOSE YOUR GENDER AND ENTER NAME
  SELECT YOUR GENDER M FOR MALE OR F FOR FEMALE
  wont  run in any condition wtever is your name sabko princess ya prince milega </p>
