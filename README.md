@@ -12,7 +12,7 @@
 
 
 
-<h1> <img src="https://te.legra.ph/file/f708eb8020237a65e837b.png" width="60px" height="100px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
+<h1> <img src="https://te.legra.ph/file/f708eb8020237a65e837b.png" width="60px" height="110px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Noob-Mukesh/count.svg" />
