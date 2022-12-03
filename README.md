@@ -8,7 +8,7 @@
  SELECT YOUR GENDER M FOR MALE OR F FOR FEMALE
  wont  run in any condition wtever is your name sabko princess ya prince milega </p>
 
-<h1> <img style="margin":500px; src="https://i.pinimg.com/736x/80/11/bf/8011bf2cc1c0c795053ccbee93854394.jpg"  width="80% ;height"80%">
+<h1> <img style="margin":500px; src="https://i.pinimg.com/736x/80/11/bf/8011bf2cc1c0c795053ccbee93854394.jpg"  width="100% ;height"100vh">
 
 
 
